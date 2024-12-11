@@ -120,10 +120,6 @@ stages:
       md5: 2a28f4a6a19e716c00aee447e0718b0b
       size: 975
     outs:
-    - path: metrics/predictions.csv
-      hash: md5
-      md5: 95e5d9e75dde193b6057b104a8a90c7a
-      size: 13216
     - path: metrics/scores.json
       hash: md5
       md5: 0ef4ee12b850a5d60faedac81aed34dd
